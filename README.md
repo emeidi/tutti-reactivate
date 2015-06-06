@@ -3,7 +3,7 @@ Reactivates classified ads on Tutti.ch, automated
 
 parse-mails.sh
 --------------
-This script parses your Apple Mail INBOX (please adjust the path to it) and extracts all reactivation links to Tutti.ch. All links found in emails are stored in the script directory in the file "tutti-urls.txt".
+This script parses your Apple Mail INBOX (please adjust the path to the INBOX folder) and extracts all reactivation links to Tutti.ch. All links found in emails are stored in the script directory in the file "tutti-urls.txt".
 
 Reactivate Tutti.scpt
 ---------------------
